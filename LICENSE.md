@@ -2,7 +2,7 @@ Créditos
 
     Creado por: BetoGraf_inc
 
-    Refactorización y mejoras de código: Asistente de Desarrollo Web
+    Refactorización y mejoras de código: Asistente de Desarrollo Web (Gems "Agente hecho en Gemini AI")
 
     Librerías utilizadas: customtkinter, pytubefix, Pillow
 
